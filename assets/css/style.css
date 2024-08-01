@@ -16,6 +16,7 @@ body {
 
 #canv {
   position: fixed;
+  opacity: 0.7;
 }
 
 
