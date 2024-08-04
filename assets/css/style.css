@@ -148,6 +148,8 @@ h6 {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    backgroung: rgba(0, 0, 0, 0.85);
+    padding: 3%;
   }
 }
 
@@ -636,7 +638,7 @@ section .container {
 }
 
 /*--------------------------------------------------------------
-# Resume
+# Education and Experience
 --------------------------------------------------------------*/
 .experience .experience-title {
   font-size: 26px;
@@ -753,7 +755,7 @@ section .container {
 }
 
 /*--------------------------------------------------------------
-# Services
+# projects
 --------------------------------------------------------------*/
 .projects .icon-box {
   text-align: center;
@@ -834,7 +836,7 @@ section .container {
 
 /*--------------------------------------------------------------
 # Portfolio
---------------------------------------------------------------*/
+--------------------------------------------------------------
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
@@ -989,6 +991,7 @@ section .container {
   bottom: 15px;
   right: 15px;
 }
+*/
 
 /*--------------------------------------------------------------
 # Portfolio Details
