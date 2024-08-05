@@ -279,6 +279,7 @@ h6 {
 */
 .mobile-nav-toggle {
   color: #fff;
+  background: black;
   font-size: 28px;
   cursor: pointer;
   display: none;
