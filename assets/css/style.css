@@ -148,7 +148,7 @@ h6 {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    backgroung: rgba(0, 0, 0, 0.85);
+    background: rgba(0, 0, 0, 0.85);
     padding: 3%;
   }
 }
