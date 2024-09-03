@@ -1,3 +1,3 @@
 # landing-page
 
-Here is my link :- www.mahinpatel.com
+Here is the link :- www.mahinpatel.com
